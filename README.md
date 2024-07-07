@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, me llamo <a href="https://www.linkedin.com/in/rubenquispecol/">Ruben Quispe</a> 👋</h1>
+  <img src="/mnt/data/A_sleek_and_modern_banner_for_a_GitHub_profile_of_.png" alt="FullStack Developer Banner" style="width:100%; max-width:800px;">
 </div>
 
 <div align="center">
